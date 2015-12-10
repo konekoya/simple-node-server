@@ -1,0 +1,22 @@
+{
+  "name": "simple-node-server",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Konekoya <tank158r5155@yahoo.com.tw>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
